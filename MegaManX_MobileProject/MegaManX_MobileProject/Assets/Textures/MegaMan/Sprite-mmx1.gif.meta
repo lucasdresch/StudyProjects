@@ -1,0 +1,2480 @@
+fileFormatVersion: 2
+guid: 35a7d282a6a045946b1f4af585c64b6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5140875464601415585
+    second: Sprite-mmx1_Spawn0
+  - first:
+      213: 1887266776376941703
+    second: Sprite-mmx1_Spawn1
+  - first:
+      213: 911928838300820873
+    second: Sprite-mmx1_Spawn2
+  - first:
+      213: -4631755904205619074
+    second: Sprite-mmx1_Spawn3
+  - first:
+      213: 8278313236255678919
+    second: Sprite-mmx1_Spawn4
+  - first:
+      213: 4703477353797727604
+    second: Sprite-mmx1_Spawn5
+  - first:
+      213: 1367030035827489124
+    second: Sprite-mmx1_Spawn6
+  - first:
+      213: 5927732900868079645
+    second: Sprite-mmx1_Idle0
+  - first:
+      213: 7024553942582727061
+    second: Sprite-mmx1_Idle1
+  - first:
+      213: 3279067494141241448
+    second: Sprite-mmx1_Idle2
+  - first:
+      213: -2146234808605477808
+    second: Sprite-mmx1_IdleTalk
+  - first:
+      213: -3742528644599941095
+    second: Sprite-mmx1_FireStand0
+  - first:
+      213: -2992043458539543399
+    second: Sprite-mmx1_FireStand1
+  - first:
+      213: -897581874505760575
+    second: Sprite-mmx1_Run00
+  - first:
+      213: -8688610233810256443
+    second: Sprite-mmx1_Run01
+  - first:
+      213: -3690048966235953796
+    second: Sprite-mmx1_Run02
+  - first:
+      213: -7071861648057325710
+    second: Sprite-mmx1_Run03
+  - first:
+      213: -8028106389941089728
+    second: Sprite-mmx1_Run04
+  - first:
+      213: -66603790137521085
+    second: Sprite-mmx1_Run05
+  - first:
+      213: 4386318779830775646
+    second: Sprite-mmx1_Run06
+  - first:
+      213: -3043646842833300103
+    second: Sprite-mmx1_Run07
+  - first:
+      213: -875409394694923549
+    second: Sprite-mmx1_Run08
+  - first:
+      213: 4523142436198915445
+    second: Sprite-mmx1_Run09
+  - first:
+      213: -6353624700947675972
+    second: Sprite-mmx1_Run10
+  - first:
+      213: 2056551315441136135
+    second: Sprite-mmx1_RunFire01
+  - first:
+      213: 3453745321126924891
+    second: Sprite-mmx1_RunFire02
+  - first:
+      213: 5173348572620318395
+    second: Sprite-mmx1_RunFire03
+  - first:
+      213: 4592853636604623157
+    second: Sprite-mmx1_RunFire04
+  - first:
+      213: -3503076941059357914
+    second: Sprite-mmx1_RunFire05
+  - first:
+      213: -8361448429300673220
+    second: Sprite-mmx1_RunFire06
+  - first:
+      213: -3816047045223863858
+    second: Sprite-mmx1_RunFire07
+  - first:
+      213: -5135356460535986444
+    second: Sprite-mmx1_RunFire08
+  - first:
+      213: 4234175169787094508
+    second: Sprite-mmx1_RunFire09
+  - first:
+      213: -809286813520572916
+    second: Sprite-mmx1_RunFire10
+  - first:
+      213: 2704420376453158546
+    second: Sprite-mmx1_Jump0
+  - first:
+      213: 4130964565132941614
+    second: Sprite-mmx1_Jump1
+  - first:
+      213: 1945474464494517177
+    second: Sprite-mmx1_Jump2
+  - first:
+      213: 1022211359255468651
+    second: Sprite-mmx1_Jump3
+  - first:
+      213: 523827714007151544
+    second: Sprite-mmx1_Jump4
+  - first:
+      213: 4015813335150850416
+    second: Sprite-mmx1_Jump5
+  - first:
+      213: -1604991867921793614
+    second: Sprite-mmx1_Jump6
+  - first:
+      213: 5717807522336572176
+    second: Sprite-mmx1_JumpFire0
+  - first:
+      213: -4512626975312614826
+    second: Sprite-mmx1_JumpFire1
+  - first:
+      213: 7107822273372966533
+    second: Sprite-mmx1_JumpFire2
+  - first:
+      213: -597821708395234089
+    second: Sprite-mmx1_JumpFire3
+  - first:
+      213: 4787614636907229138
+    second: Sprite-mmx1_JumpFire4
+  - first:
+      213: -7373018382687374366
+    second: Sprite-mmx1_JumpFire5
+  - first:
+      213: 8929850407796384688
+    second: Sprite-mmx1_JumpFire6
+  - first:
+      213: -2113262584654352150
+    second: Sprite-mmx1_Grab0
+  - first:
+      213: -4332592071100213267
+    second: Sprite-mmx1_Grab1
+  - first:
+      213: -5765240315654579558
+    second: Sprite-mmx1_Grab2
+  - first:
+      213: -3837108297900737859
+    second: Sprite-mmx1_GrabJump
+  - first:
+      213: -9051440169557937024
+    second: Sprite-mmx1_GrabJump2
+  - first:
+      213: -3054478112842887401
+    second: Sprite-mmx1_GrabJumpFire
+  - first:
+      213: 4305149895013051196
+    second: Sprite-mmx1_GrabFire
+  - first:
+      213: -3305337082987281979
+    second: Sprite-mmx1_GrabFire2
+  - first:
+      213: 3272846801148629135
+    second: Sprite-mmx1_GrabJumpFire1
+  - first:
+      213: 901760970540464050
+    second: Sprite-mmx1_GrabJumpFire3
+  - first:
+      213: 2248273162709938247
+    second: Sprite-mmx1_GrabJump0
+  - first:
+      213: 8122739038309476856
+    second: Sprite-mmx1_GrabJumpFire0
+  - first:
+      213: -5431851497053297077
+    second: Sprite-mmx1_GrabStairs0
+  - first:
+      213: 8355511467279176291
+    second: Sprite-mmx1_GrabStairs1
+  - first:
+      213: -5912701700389356870
+    second: Sprite-mmx1_GrabStairs2
+  - first:
+      213: -1092930136150984921
+    second: Sprite-mmx1_GrabStairs3
+  - first:
+      213: -2116394961005980758
+    second: Sprite-mmx1_GrabStairs4
+  - first:
+      213: 7703867091277081990
+    second: Sprite-mmx1_GrabStairsFire0
+  - first:
+      213: -5167014434915579839
+    second: Sprite-mmx1_GrabStairsRise0
+  - first:
+      213: -7113278517219112712
+    second: Sprite-mmx1_GrabStairsRise1
+  - first:
+      213: 918005182226097364
+    second: Sprite-mmx1_Vanish0
+  - first:
+      213: 3055237362159116302
+    second: Sprite-mmx1_Vanish1
+  - first:
+      213: 8792436758878983870
+    second: Sprite-mmx1_Vanish2
+  - first:
+      213: -7115711413195485388
+    second: Sprite-mmx1_Vanish3
+  - first:
+      213: -264169084481405441
+    second: Sprite-mmx1_Vanish4
+  - first:
+      213: -2942961391869636285
+    second: Sprite-mmx1_Fall
+  - first:
+      213: 7163360919941056463
+    second: Sprite-mmx1_Dash0
+  - first:
+      213: 6651231730398751624
+    second: Sprite-mmx1_Dash1
+  - first:
+      213: -6313883383138019756
+    second: Sprite-mmx1_DashFire0
+  - first:
+      213: -7238307247055748269
+    second: Sprite-mmx1_DashFire1
+  - first:
+      213: 2095679775191739937
+    second: Sprite-mmx1_IdleCritical0
+  - first:
+      213: -849112687404665749
+    second: Sprite-mmx1_IdleCritical1
+  - first:
+      213: -105449957516384789
+    second: Sprite-mmx1_IdleCritical2
+  - first:
+      213: 8543232709583956756
+    second: Sprite-mmx1_IdleCritical3
+  - first:
+      213: 9050393042494369216
+    second: Sprite-mmx1_IdleCritical4
+  - first:
+      213: -690496546053066862
+    second: Sprite-mmx1_Die0
+  - first:
+      213: -265588119502587915
+    second: Sprite-mmx1_Die1
+  - first:
+      213: -586022481492623915
+    second: Sprite-mmx1_Particle0
+  - first:
+      213: 9199501647109074613
+    second: Sprite-mmx1_Particle1
+  - first:
+      213: -7846872052543107536
+    second: Sprite-mmx1_Particle2
+  - first:
+      213: -35057744289953208
+    second: Sprite-mmx1_Particle3
+  - first:
+      213: -3074001212781017701
+    second: Sprite-mmx1_Particle4
+  - first:
+      213: -5043252744875422259
+    second: Sprite-mmx1_Robot0
+  - first:
+      213: -8782185178305174344
+    second: Sprite-mmx1_Robot1
+  - first:
+      213: 2424232103813365299
+    second: Sprite-mmx1_Robot2
+  - first:
+      213: -8595520243456651337
+    second: Sprite-mmx1_RobotAttack0
+  - first:
+      213: -3491413816945117497
+    second: Sprite-mmx1_RobotAttack1
+  - first:
+      213: -8998220854332988727
+    second: Sprite-mmx1_RobotAttack2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite-mmx1_Spawn0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 306
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afa61e5ffe085740800000000000000
+      internalID: 5140875464601415585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Spawn1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 306
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c185a422be03a10800000000000000
+      internalID: 1887266776376941703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Spawn2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985ea536272d7ac00800000000000000
+      internalID: 911928838300820873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Spawn3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7081839b82b8bfb0800000000000000
+      internalID: -4631755904205619074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Spawn4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c12f6a270a72e270800000000000000
+      internalID: 8278313236255678919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Spawn5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4753532bbbb164140800000000000000
+      internalID: 4703477353797727604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Spawn6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46979c2239aa8f210800000000000000
+      internalID: 1367030035827489124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Idle0
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1043a7baa9834250800000000000000
+      internalID: 5927732900868079645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Idle1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5919635d79a3c7160800000000000000
+      internalID: 7024553942582727061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Idle2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868a1de3386918d20800000000000000
+      internalID: 3279067494141241448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_IdleTalk
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054fd7410da0732e0800000000000000
+      internalID: -2146234808605477808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_FireStand0
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91875e8c60edf0cc0800000000000000
+      internalID: -3742528644599941095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_FireStand1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 306
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9942835b3502a76d0800000000000000
+      internalID: -2992043458539543399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run00
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 268
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0414d6a062b83f0800000000000000
+      internalID: -897581874505760575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run01
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 268
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd7aedc60bdb6780800000000000000
+      internalID: -8688610233810256443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run02
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 267
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7565b314005accc0800000000000000
+      internalID: -3690048966235953796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run03
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 267
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277a5d6ac43bbdd90800000000000000
+      internalID: -7071861648057325710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run04
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 268
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8488e5cf669090800000000000000
+      internalID: -8028106389941089728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run05
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 268
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c882ca430631ff0800000000000000
+      internalID: -66603790137521085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run06
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 268
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f2077c0b55fdc30800000000000000
+      internalID: 4386318779830775646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run07
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 267
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759e27825bc2c5d0800000000000000
+      internalID: -3043646842833300103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run08
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 268
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea5b2c2bcbe9d3f0800000000000000
+      internalID: -875409394694923549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run09
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 268
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d9122c41e65ce30800000000000000
+      internalID: 4523142436198915445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Run10
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 268
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4cdd75ff363d7a0800000000000000
+      internalID: -6353624700947675972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RunFire01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 228
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7023b3b76865a8c10800000000000000
+      internalID: 2056551315441136135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RunFire02
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 227
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b521072221b2eef20800000000000000
+      internalID: 3453745321126924891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RunFire03
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 227
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6ee420e1d6bc740800000000000000
+      internalID: 5173348572620318395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RunFire04
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 228
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539fd2b6c081dbf30800000000000000
+      internalID: 4592853636604623157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RunFire05
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 228
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6238b4b0512926fc0800000000000000
+      internalID: -3503076941059357914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RunFire06
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 228
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3519c354fa26fb80800000000000000
+      internalID: -8361448429300673220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RunFire07
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 227
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a04f3e6daa0bc0800000000000000
+      internalID: -3816047045223863858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RunFire08
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 228
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ceb6e18c8bb8b0800000000000000
+      internalID: -5135356460535986444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RunFire09
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 228
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce560ff12efc2ca30800000000000000
+      internalID: 4234175169787094508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RunFire10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 228
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ec2be4ee5d4c4f0800000000000000
+      internalID: -809286813520572916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Jump0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 184
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29691d5f008088520800000000000000
+      internalID: 2704420376453158546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Jump1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 180
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29997c9262245930800000000000000
+      internalID: 4130964565132941614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Jump2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 177
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbf9c7c7b6bffa10800000000000000
+      internalID: 1945474464494517177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Jump3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 178
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a9ac9b0df9f2e00800000000000000
+      internalID: 1022211359255468651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Jump4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 177
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b6e0d782054700800000000000000
+      internalID: 523827714007151544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Jump5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 180
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07171fd93f80bb730800000000000000
+      internalID: 4015813335150850416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Jump6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 184
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd7125566ce9b9e0800000000000000
+      internalID: -1604991867921793614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_JumpFire0
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 184
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0138de6b5abb95f40800000000000000
+      internalID: 5717807522336572176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_JumpFire1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 180
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a65a4ccadef51c0800000000000000
+      internalID: -4512626975312614826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_JumpFire2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 177
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e4103e2be04a260800000000000000
+      internalID: 7107822273372966533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_JumpFire3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 177
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcb518d25c14b7f0800000000000000
+      internalID: -597821708395234089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_JumpFire4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 177
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfe05a7526017240800000000000000
+      internalID: 4787614636907229138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_JumpFire5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 180
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37e7948d6cda990800000000000000
+      internalID: -7373018382687374366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_JumpFire6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 184
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a41e22a33deb70800000000000000
+      internalID: 8929850407796384688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Grab0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 130
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0bd8430ee2ca2e0800000000000000
+      internalID: -2113262584654352150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Grab1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 130
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7d565677a8fd3c0800000000000000
+      internalID: -4332592071100213267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Grab2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 131
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ad5ac7a70cdffa0800000000000000
+      internalID: -5765240315654579558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabJump
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 131
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba3cea355adfbac0800000000000000
+      internalID: -3837108297900737859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabJump2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 129
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0843cc35f13d26280800000000000000
+      internalID: -9051440169557937024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabJumpFire
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 130
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f4bc5f6505c95d0800000000000000
+      internalID: -3054478112842887401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabFire
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 130
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b20151507febb30800000000000000
+      internalID: 4305149895013051196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabFire2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 131
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10e997f651122d0800000000000000
+      internalID: -3305337082987281979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabJumpFire1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 131
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80dcba43dc7b6d20800000000000000
+      internalID: 3272846801148629135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabJumpFire3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 130
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7306133d2b38c00800000000000000
+      internalID: 901760970540464050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabJump0
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 130
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740be559788733f10800000000000000
+      internalID: 2248273162709938247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabJumpFire0
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 130
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f962a58e14c9b070800000000000000
+      internalID: 8122739038309476856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabStairs0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 66
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46e675b7df2e94b0800000000000000
+      internalID: -5431851497053297077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabStairs1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 59
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d0ebf86db4f370800000000000000
+      internalID: 8355511467279176291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabStairs2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 63
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abab17d512dd1fda0800000000000000
+      internalID: -5912701700389356870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabStairs3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 63
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727b66ee4d125d0f0800000000000000
+      internalID: -1092930136150984921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabStairs4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 59
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3dfc00ffd01a2e0800000000000000
+      internalID: -2116394961005980758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabStairsFire0
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 60
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d646c7d42a9ea60800000000000000
+      internalID: 7703867091277081990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabStairsRise0
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 56
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1488a895fb31b48b0800000000000000
+      internalID: -5167014434915579839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_GrabStairsRise1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 61
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ccb850ee884d90800000000000000
+      internalID: -7113278517219112712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Vanish0
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 68
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4ed8479d86dbc00800000000000000
+      internalID: 918005182226097364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Vanish1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 68
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00eefb8132666a20800000000000000
+      internalID: 3055237362159116302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Vanish2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 68
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6911bd5a2050a70800000000000000
+      internalID: 8792436758878983870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Vanish3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 68
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f4a4c9b2aef3d90800000000000000
+      internalID: -7115711413195485388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Vanish4
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 68
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd78d60e9b755cf0800000000000000
+      internalID: -264169084481405441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Fall
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 68
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341dbe1e4308827d0800000000000000
+      internalID: -2942961391869636285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Dash0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc78007bdce596360800000000000000
+      internalID: 7163360919941056463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Dash1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b6931e40ced4c50800000000000000
+      internalID: 6651231730398751624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_DashFire0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45611d2f3849068a0800000000000000
+      internalID: -6313883383138019756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_DashFire1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3534b14b8ed5c8b90800000000000000
+      internalID: -7238307247055748269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_IdleCritical0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e2643f6a9551d10800000000000000
+      internalID: 2095679775191739937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_IdleCritical1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64b7f472885734f0800000000000000
+      internalID: -849112687404665749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_IdleCritical2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5e7a482dd598ef0800000000000000
+      internalID: -105449957516384789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_IdleCritical3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 3
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bef38a2e8af8670800000000000000
+      internalID: 8543232709583956756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_IdleCritical4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd2b876584799d70800000000000000
+      internalID: 9050393042494369216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Die0
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f6fddbc0dda66f0800000000000000
+      internalID: -690496546053066862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Die1
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7fb703301705cf0800000000000000
+      internalID: -265588119502587915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Particle0
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 15
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd3d3078a70ed7f0800000000000000
+      internalID: -586022481492623915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Particle1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beae8ac1023baf70800000000000000
+      internalID: 9199501647109074613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Particle2
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e4a36517f4a1390800000000000000
+      internalID: -7846872052543107536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Particle3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 15
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a88f4da23738ff0800000000000000
+      internalID: -35057744289953208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Particle4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9541190f24f655d0800000000000000
+      internalID: -3074001212781017701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Robot0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 45
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdcf2d4954c20ab0800000000000000
+      internalID: -5043252744875422259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Robot1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 45
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46b6f3c196f1680800000000000000
+      internalID: -8782185178305174344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_Robot2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 45
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33eb4e8114a94a120800000000000000
+      internalID: 2424232103813365299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RobotAttack0
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 45
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf461d21e396b880800000000000000
+      internalID: -8595520243456651337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RobotAttack1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 45
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6781db1a10c8fc0800000000000000
+      internalID: -3491413816945117497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-mmx1_RobotAttack2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 45
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c268febec5ef1380800000000000000
+      internalID: -8998220854332988727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
